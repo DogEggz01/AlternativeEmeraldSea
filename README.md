@@ -9,6 +9,7 @@
 <img width="3840" height="2160" alt="209284~1" src="https://github.com/user-attachments/assets/516e5bae-b504-4a93-bb1e-03a901b8c9ad" />
 - Open Chronos Ocean: Neutral color temperature. Darker navy blue.
 <img width="3840" height="2160" alt="2026D5~1" src="https://github.com/user-attachments/assets/c4f12f79-2767-4759-bb04-1084b072271b" />
+
 - Configurator rule for Aestrin/Chronos:
   - Winter Aestrin **on**, Open Chronos ocean off = Winter Aestrin apply to both region
   - Winter Aestrin **on**, Open Chronos ocean **on** = Winter Aestrin apply to Aestrin region, Open Chronos apply to Chronos region
