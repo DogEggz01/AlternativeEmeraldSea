@@ -1,5 +1,5 @@
 # AlternativeOceanColor
-##Emerald Archipelagos
+## Emerald Archipelagos
 
 - Emerald Sea: Lower Color Temperature (less yellow). Darker, more Emerald like sea. This one will be closer to Vanilla.
 <img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/c7afcb29-2953-4b4a-ae2f-fff0b0c43101" />
